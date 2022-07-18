@@ -4,12 +4,12 @@
 
 ## Demo
 
-* 🔗 [Open in Github Pages](https://mrArpanM.github.io/tikTacToe/play)
+* 🔗 [Open in Github Pages](https://mrArpanM.github.io/tikTacToe)
 * 🔗 [Open in Codepen](https://codepen.io/arpan-m/full/GRQzZaw)
 
 ## Screenshots
 
-![App Screenshot](https://github.com/mrArpanM/blob/main/tikTacToe/tttSS.png?raw=true)
+![App Screenshot](https://github.com/mrArpanM/tikTacToe/blob/main/tttSS.png?raw=true)
 
 ## Objectives
 
